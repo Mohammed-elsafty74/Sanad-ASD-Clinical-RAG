@@ -180,4 +180,3 @@ The script will calculate Precision@K, Safety Pass Rates, Citation Binding, and 
 *Sanad is an educational and clinical decision support demonstration built for research and guidance purposes. It does not provide formal medical diagnoses or replace professional healthcare provider advice.*
 
 ---
-License: MIT
