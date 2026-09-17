@@ -108,7 +108,7 @@ Clone the repository and install the backend dependencies:
 
 ```bash
 # Clone repository
-git clone https://github.com/Mohanad06/Sanad-ASD-Clinical-RAG.git
+git clone https://github.com/Mohammed-elsafty74/Sanad-ASD-Clinical-RAG.git
 cd Sanad-ASD-Clinical-RAG
 
 # Install Python requirements
