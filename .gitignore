@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+node_modules/
+dist/
+.DS_Store
+backend/document_upload/uploads/
+backend/document_upload/index/
+backend/document_upload/registry.json
+
